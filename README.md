@@ -2,13 +2,9 @@
 
 I'm Kanishk, an undergraduate Computer Science and Mathematics student at Rutgers University, graduating in 2028.
 
-At Rutgers, I'm involved with RUSA Allocations, where I work with student organization funding and build models to help evaluate and allocate university funding.
+At Rutgers, I'm involved with RUSA Allocations, where I work on funding models and student organization allocations. Outside of school, I run an A/V production company and build internal tools to streamline operations.
 
-Outside of school, I run an A/V production company and have built lightweight internal tools to manage client information, event workflows, quoting, scheduling, and other day-to-day operations. Running the business has also given me a strong interest in using software to automate repetitive real-world processes.
-
-My technical interests are primarily in machine learning, data engineering, and backend systems. I'm currently preparing for Summer 2027 software engineering internships and working toward building more production-ready projects.
-
-Some ideas I'm currently exploring include a Facebook Marketplace negotiation assistant and an AI-based audio/lighting programming tool designed to automate parts of live event production.
+My technical interests include machine learning, data engineering, and backend systems.
 
 Outside of programming, I enjoy DJing, pickleball, hiking, and entrepreneurship.
 
